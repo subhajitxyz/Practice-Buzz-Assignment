@@ -12,13 +12,7 @@ A simple Android note-taking application built using **Jetpack Compose**, **Room
 - MVVM architecture for clean code separation
 - Dependency injection using Hilt
 - Uses Kotlin Coroutines and Flow
-<img width="1220" height="2712" alt="1000022856" src="https://github.com/user-attachments/assets/0edfd210-c4e0-45f4-9b7a-3d54ac727f00" />
-<img width="1220" height="2712" alt="1000022855" src="https://github.com/user-attachments/assets/b797872e-ac62-4aa8-af2d-c8155837731b" />
-<img width="1220" height="2712" alt="1000022854" src="https://github.com/user-attachments/assets/b9dbd79e-8e78-45c3-a3bf-5cee1d45d954" />
 
-<img width="1220" height="2712" alt="1000022853" src="https://github.com/user-attachments/assets/6a08c67e-3402-4ddb-91f0-8bccacda1755" />
-
-## Screenshots
 
 ## Screenshots
 
